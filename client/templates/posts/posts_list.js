@@ -17,6 +17,6 @@
 // });
 Template.postsList.helpers({
   posts: function(){
-    return Posts.find({category:'css'});
+    return Posts.find({category:'javascript'});
   }
 });

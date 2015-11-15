@@ -1,1 +1,1 @@
-Meteor.subscribe('postsByauthor','tom');
+// Meteor.subscribe('postsByauthor','tom');
